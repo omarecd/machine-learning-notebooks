@@ -33,5 +33,5 @@ This project builds foundational ML intuition:
 
 ## ✍️ Author Notes
 
-This notebook might contain long inline comments intentionally — to help me understand, reflect, and consolidate learning.  
-I'm building a collection of real, documented ML mini-projects here.
+This notebook contains intentionally long inline comments to help me reflect, understand, and solidify key concepts.
+I’m building a personal collection of real, hands-on machine learning mini-projects — not just to showcase code, but to demonstrate actual learning and growth. This project may be simple, but it’s a meaningful step forward as one of my first real experiences in the field.
