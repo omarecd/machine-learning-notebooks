@@ -1,0 +1,1 @@
+I’ve been curious about machine learning for a long time — and I’ve finally decided to dive in. This repo is where I’m learning by doing, turning concepts into code. No shortcuts, no theory without practice — just hands-on notebooks applying what I learn, one step at a time.
